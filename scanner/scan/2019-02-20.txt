@@ -1,0 +1,3 @@
+/home/gbhoster/rootina.gb-hoster.me/includes/func.server.inc.php
+/home/gbhoster/rootina.gb-hoster.me/admin/serverprocess1.php
+/home/gbhoster/rootina.gb-hoster.me/admin/serverprocess.php

@@ -1,0 +1,2 @@
+/home/rootina.gb-hoster.me/public_html/1312admin/serverprocess.php
+/home/rootina.gb-hoster.me/public_html/includes/func.server.inc.php

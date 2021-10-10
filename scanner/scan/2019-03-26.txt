@@ -1,0 +1,14 @@
+/home/gb-hoster.me/public_html/gp-plugins.php
+/home/gb-hoster.me/public_html/gp-admins.php
+/home/gb-hoster.me/public_html/gp-console.php
+/home/gb-hoster.me/public_html/gp-mods.php
+/home/gb-hoster.me/public_html/gp-webftp.php
+/home/gb-hoster.me/public_html/gp-boost.php
+/home/gb-hoster.me/public_html/gp-autorestart.php
+/home/gb-hoster.me/public_html/s/gp-plugins.php
+/home/gb-hoster.me/public_html/s/gp-admins.php
+/home/gb-hoster.me/public_html/s/gp-console.php
+/home/gb-hoster.me/public_html/s/gp-mods.php
+/home/gb-hoster.me/public_html/s/gp-webftp.php
+/home/gb-hoster.me/public_html/s/gp-boost.php
+/home/gb-hoster.me/public_html/s/gp-autorestart.php

@@ -1,0 +1,18 @@
+RewriteEngine on
+
+RewriteRule ^home$							"index.php"
+RewriteRule ^gamepanel$						"gp-home.php"
+RewriteRule ^register$						"register.php"
+RewriteRule ^img/$                          "/error.php"
+RewriteRule ^css/$                			"/error.php"
+RewriteRule ^js/$                			"/error.php"
+RewriteRule ^SQL/$                			"/error.php"
+RewriteRule ^fonts/$                		"/error.php"
+RewriteRule ^plugin_amxx/$                	"/error.php"
+RewriteRule ^connect_db.php$                "/error.php"
+RewriteRule ^style/$                        "/error.php"
+RewriteRule ^_cache/$                        "/error.php"
+RewriteRule ^inc/$                        "/error.php"
+RewriteRule ^fnc/$                        "/error.php"
+RewriteRule ^includes/$                        "/error.php"
+RewriteRule ^demo$                        "/demo.php"
